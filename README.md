@@ -6,4 +6,6 @@
 - **[ACLang](https://github.com/corinB/javaStudy/wiki/ACLang(no.5430))**
 
 - **[ParenthesisString](https://github.com/corinB/javaStudy/wiki/Parenthesis-String(PS))**
+
+- **[Find The Minimum](https://github.com/corinB/javaStudy/wiki/Find-The-Minimum(no.11003))**
     
