@@ -5,5 +5,5 @@
 ### Data Structure(자료 구조)
 - **[ACLang](https://github.com/corinB/javaStudy/wiki/ACLang(no.5430))**
 
-- **[ParenthesisString]**
+- **[ParenthesisString](https://github.com/corinB/javaStudy/wiki/Parenthesis-String(PS))**
     
